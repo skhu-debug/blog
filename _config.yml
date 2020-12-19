@@ -1,6 +1,6 @@
-title: "Blog Title"
-author: "Blog Author"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
+title: "SKHU-DEBUG"
+author: "DEBUG"
+description: "Blog For Security"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -20,8 +20,8 @@ navigation:
   - {file: "README.md", icon: address-card}
 
 external:                  # see http://fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
+  - {title: Mail, icon: envelope, url: "mailto:skhu.debug@gmail.com"}
+  - {title: Github, icon: github, url: "https://github.com/skhu-debug/debug.github.io"}
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:

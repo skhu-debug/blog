@@ -21,7 +21,7 @@ navigation:
 
 external:                  # see http://fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:skhu.debug@gmail.com"}
-  - {title: Github, icon: github, url: "https://github.com/skhu-debug/debug.github.io"}
+  - {title: Github, icon: github, url: "https://github.com/skhu-debug/blog"}
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:

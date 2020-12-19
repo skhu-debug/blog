@@ -1,6 +1,8 @@
 title: "SKHU-DEBUG"
 author: "DEBUG"
 description: "Blog For Security"
+url: "https://skhu-debug.github.io"
+baseurl: "/blog"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"

@@ -1,8 +1,8 @@
 title: "SKHU-DEBUG"
 author: "DEBUG"
 description: "Blog For Security"
-url: "https://skhu-debug.github.io"
-baseurl: "/blog"
+#url: "https://skhu-debug.github.io"
+#baseurl: "/blog"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -19,7 +19,6 @@ show_sidebar: true        # show a sidebar instead of the usual header
 
 navigation:
   - {file: "index.html", icon: home}
-  - {file: "README.md", icon: address-card}
 
 external:                  # see http://fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:skhu.debug@gmail.com"}

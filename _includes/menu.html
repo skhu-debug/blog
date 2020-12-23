@@ -9,3 +9,20 @@
   </a>
 {%- endfor -%}
 </nav>
+
+{% if site.posts.size == 0 %}
+  <h2>No post found</h2>
+{% endif %}
+<nav>
+  {% for eachCategory in site.categories %}
+    {% for categoryName in eachCategory[0] %}
+      {% if categoryName != null %}
+        <a href="/categories/{{ categoryName }}" {% if url == page.url %}class="selected"{% endif %}>
+          [▨]&nbsp;
+          {{ categoryName }}
+          &nbsp;<span class="count" style="background-color:gray;padding:0 6px;">{{ eachCategory[1].size }}</span>
+        </a>
+      {% endif %}
+    {% endfor %}
+  {% endfor %}
+</nav>

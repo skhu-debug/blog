@@ -15,6 +15,21 @@ show_excerpts: true       # show article excerpts on the home page
 show_frame: true          # adds a gray frame to the site
 show_sidebar: true        # show a sidebar instead of the usual header
 
+# Site Author
+author:
+  name             : "SKHU-DEBUG"
+  avatar           : "/assets/images/default-main.png"
+  links:
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://www.facebook.com/skhu.debug/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/skhu-debug/blog"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/skhu_debug?igshid=l2dxiry1r0q0"
+
 # Menu
 
 navigation:

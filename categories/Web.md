@@ -1,5 +1,6 @@
 ---
 layout: category
 title: "WebHacking"
-permalink: categories/WebHacking
+category: Web
+permalink: categories/Web
 ---

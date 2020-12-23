@@ -1,7 +1,7 @@
 ---
 layout: page
 ---
-{% for post in site.categories[page.title] %}
+{% for post in site.categories[page.category] %}
   <ul class="category">
     {% if post.title != null %}
       <li>

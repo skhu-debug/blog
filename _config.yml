@@ -42,7 +42,7 @@ external:                  # see http://fontawesome.com/icons
 
 comments:
   provider: "disqus"
-  disqus_shortname: "skhu-debug-github-io.disqus.com"    # see https://disqus.com/
+  disqus_shortname: "skhu-debug-github-io"    # see https://disqus.com/
 # isso_domain: ""         # see https://posativ.org/isso/
 
 plugins:
